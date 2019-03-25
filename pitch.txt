@@ -1,0 +1,7 @@
+Ending world hunger is one of the 17 Sustainable Development Goals that the United Nations introduced in 2015. UN members aim at meeting the five targets set by the goal by 2030.
+
+It is important to note that, on average, the world population has been faring better when it comes to crucial topics such as malnutrition: stunting fell by more than eight per cent between 2000 and 2015 - measured as the proportion of children under five years old whose growth has been altered due to the lack of food. However, UN members are still far from meeting the 0 per cent undernourished target set for 2030 - the world average is now of 10.8 per cent.
+
+Please find attached visuals supporting this story. All data comes from either the World Bank or the UN stats API (sources are included at the bottom of each graphic). Data is - sadly - not available for all indicators assessing progress towards meeting all the targets goal number two sets. For some indicators, there is no data at all, and for others, sometimes, only a year or two are included. Prevalence of undernourishment, for example, has not been measured since 2015. Hence, it is hard to assess progress since the goals were properly defined by the UN.
+
+Please let me know should you have any question. 
